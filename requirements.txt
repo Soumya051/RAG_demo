@@ -1,0 +1,5 @@
+sentence_transformers
+regex
+pandas
+numpy
+tqdm
